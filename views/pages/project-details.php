@@ -1,0 +1,103 @@
+<section class="page-title bg-1">
+   <div class="container">
+      <div class="columns">
+         <div class="column is-12">
+            <div class="block has-text-centered">
+               <span class="text-white">Single details</span>
+               <h1 class="is-capitalize text-lg">Project Details</h1>
+
+               <ul class="list-inline breadcumb-nav">
+                  <li class="list-inline-item"><a href="/" class="text-white">Home</a></li>
+                  <li class="list-inline-item"><span class="text-white">/</span></li>
+                  <li class="list-inline-item"><a href="#" class="text-white-50">Single details</a></li>
+               </ul>
+            </div>
+         </div>
+      </div>
+   </div>
+</section>
+
+
+<section class="section case-study">
+	<div class="container">
+		<div class="columns">
+			<div class="columns">
+				<div class="column lg-6">
+					<div class="case-img">
+						<img src="/assets/images/about/about.jpg" alt="" class="w-100">
+					</div>
+				</div>
+
+				<div class="column lg-6 column md-8">
+					<div class="case-content pl-4 mt-4 mt-lg-0">
+						<h3 class="mb-3">Engaging content and flexible User experience help to gcolumns more</h3>
+
+						<p>Accusamus necessitatibus harum nobis quam omnis tempora cupiditate nihil, vero dolorum porro atque. Suscipit assumenda, minus tempora aliquid, ratione minima optio nihil.</p>
+
+						<ul class="list-unstyled project-info-list">
+							<li><strong>Project Name: </strong>Business Accounting</li>
+
+							<li><strong>Client: </strong>Company Name Inc.</li>
+							<li><strong>Project Start Date:</strong> February 18, 2018</li>
+
+							<li><strong>Project Completion Date:</strong> January 25, 2018 </li>
+							<li><strong>Project url:</strong> www.example.com</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+
+<section class="section pt-0">
+	<div class="container">
+		<div class="columns">
+			<div class="column lg-4 column md-6">
+				<div class="mb-5 mb-lg-0">
+					<img src="/assets/images/about/process-1.jpg" alt="" class="w-100">
+					<h4 class="mt-3">Our Strategies</h4>
+					<p>Ducimus recusandae molestias, suscipit neque, sit inventore. Totam, adipisci eos numquam libero. Quasi dolore pariatur alias eligendi!</p>
+				</div>
+			</div>
+
+			<div class="column lg-4 column md-6">
+				<div class="mb-5 mb-lg-0">
+					<img src="/assets/images/about/process-2.jpg" alt="" class="w-100">
+					<h4 class="mt-3">Our Challenges</h4>
+					<p>Eveniet nisi eius qui necessitatibus exercitationem, quam suscipit harum, nostrum reprehenderit nobis error</p>
+				</div>
+			</div>
+			<div class="column lg-4 column md-6">
+				<div class="mb-0">
+					<img src="/assets/images/about/process-3.jpg" alt="" class="w-100">
+					<h4 class="mt-3">Our Success</h4>
+					<p>Eveniet nisi eius qui necessitatibus exercitationem, quam suscipit harum, nostrum reprehenderit nobis error</p>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+
+<section class="section single-testimonial bg-gray">
+	<div class="container">
+		<div class="columns is-justify-content-center">
+			<div class="column lg-8">
+				<div class="single-testimonial-block has-text-centered">
+					<h2 class="mb-4">Testimonial</h2>
+					<img src="/assets/images/team/testimonial1.jpg" alt="" class="w-100 rounded-circle">
+
+					<div class="info mb-4 mt-4">
+						<h6 class="mb-0">John Partho</h6>
+						<span>Newyork USA</span>
+					</div>
+					<p>
+						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio ex atque pariatur consequuntur maiores asperiores laudantium repellendus dolore quia eaque reprehenderit aliquam, quisquam similique dignissimos quas culpa eum fugit. Dolore.
+					</p>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
